@@ -7,6 +7,8 @@
 
 libs\package.lua
 libs\T.lua
+libs\LibStub\LibStub.lua
+libs\AceCore-3.0\AceCore-3.0.xml
 libs\ChatThrottleLib.lua
 
 aux-addon.lua
